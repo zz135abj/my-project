@@ -14,7 +14,8 @@
 1. 阅读 [BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md) 了解推荐的学习节奏与技巧
 2. 按照 [SETUP.md](./SETUP.md) 完成环境配置（建议使用虚拟环境）
 3. 使用 [PROGRESS_TRACKER.md](./PROGRESS_TRACKER.md) 记录每课完成情况与复盘
-4. 准备好之后，从 [python-basics](./python-basics/) 的 lesson01 开始循序渐进学习
+4. 若计划配合《PyTorch: 入门与实践》（陈云）学习，请查看 [pytorch-tutorial/BOOK_ALIGNMENT.md](./pytorch-tutorial/BOOK_ALIGNMENT.md) 获取章节映射
+5. 准备好之后，从 [python-basics](./python-basics/) 的 lesson01 开始循序渐进学习
 
 ## 🔄 推荐学习流程
 
