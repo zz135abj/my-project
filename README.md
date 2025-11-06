@@ -9,6 +9,22 @@
 - ✏️ **大量练习题**：100+练习题帮助巩固知识
 - 🎯 **循序渐进**：课程难度逐步递增，适合自学
 
+## 🧭 新手快速导航
+
+1. 阅读 [BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md) 了解推荐的学习节奏与技巧
+2. 按照 [SETUP.md](./SETUP.md) 完成环境配置（建议使用虚拟环境）
+3. 使用 [PROGRESS_TRACKER.md](./PROGRESS_TRACKER.md) 记录每课完成情况与复盘
+4. 准备好之后，从 [python-basics](./python-basics/) 的 lesson01 开始循序渐进学习
+
+## 🔄 推荐学习流程
+
+1. **预习**：先阅览 [COURSE_OUTLINE.md](./COURSE_OUTLINE.md) 和本课 README，明确目标
+2. **学习**：按照课程说明运行示例代码，理解每个步骤的作用
+3. **实践**：独立完成 `exercises.py` 中的练习，尝试扩展或变体
+4. **复盘**：在笔记或进度表中总结收获和疑问，隔天再回顾一次巩固记忆
+
+> 建议结合番茄工作法（25 分钟专注 + 5 分钟整理）保持稳定节奏。
+
 ## 📚 学习大纲
 
 ### 第一部分：Python基础编程 (第1-14课)
@@ -69,6 +85,7 @@ python pytorch_intro.py
 
 - 每天保持1-2小时的学习时间
 - 理论学习后立即动手实践
+- 使用 [PROGRESS_TRACKER.md](./PROGRESS_TRACKER.md) 记录进度与收获
 - 遇到问题时先尝试自己解决，再查看答案
 - 建立学习笔记，记录重要概念和代码
 

@@ -2,6 +2,12 @@
 
 本部分将带你从零开始学习Python编程，预计学习时间1-2周。
 
+## 🧑‍🎓 学习建议
+
+- 在开始之前阅读仓库根目录的 [BEGINNER_GUIDE.md](../BEGINNER_GUIDE.md)，明确学习流程
+- 使用 [PROGRESS_TRACKER.md](../PROGRESS_TRACKER.md) 勾选完成情况，并记录练习笔记
+- 每周至少安排一次 30 分钟的复盘时间，巩固本周知识点
+
 ## 📋 课程大纲
 
 ### 第1周：Python基础语法
