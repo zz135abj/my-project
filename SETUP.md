@@ -191,8 +191,9 @@ A: 在命令行输入`nvidia-smi`或`nvcc --version`
 ## 🎯 下一步
 
 环境搭建完成后，你可以：
-1. 从[Python基础](./python-basics/)部分开始学习
-2. 运行示例代码验证环境
-3. 加入学习社区，与其他学习者交流
+1. 阅读 [BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md)，规划学习节奏与复盘方式
+2. 从[Python基础](./python-basics/)部分开始学习，并配合 [PROGRESS_TRACKER.md](./PROGRESS_TRACKER.md) 记录进度
+3. 运行示例代码验证环境
+4. 加入学习社区，与其他学习者交流
 
 祝你学习愉快！🎉

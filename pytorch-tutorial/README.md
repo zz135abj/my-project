@@ -2,6 +2,18 @@
 
 本部分基于陈云著《PyTorch:入门与实践》，带你深入学习PyTorch深度学习框架，预计学习时间3-6周。
 
+## 🧩 学习建议
+
+- 建议在开始之前先完成 `python-basics/` 目录中的全部内容
+- 再次阅读 [BEGINNER_GUIDE.md](../BEGINNER_GUIDE.md)，了解深度学习阶段的复盘要点
+- 继续使用 [PROGRESS_TRACKER.md](../PROGRESS_TRACKER.md) 记录实验结果、训练日志与心得
+
+## 📘 书籍对照
+
+- 如果你正在阅读《PyTorch: 入门与实践》（陈云），请参考 [BOOK_ALIGNMENT.md](./BOOK_ALIGNMENT.md) 获取本项目课程与章节的详细映射
+- 推荐学习顺序：**先阅读对应章节 → 在本项目中完成配套 Lesson 与练习 → 使用进度表复盘心得**
+- 对书中尚未覆盖的高级主题（注意力机制、生成模型、部署等），建议在完成本项目核心课程后再行拓展
+
 ## 📋 课程大纲
 
 ### 第3-4周：PyTorch基础和张量操作

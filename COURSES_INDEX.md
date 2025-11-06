@@ -104,8 +104,11 @@ python pytorch_demo.py
 
 1. **按顺序学习**：课程设计为循序渐进，建议按照课程编号顺序学习
 2. **动手实践**：每课都包含练习题，务必完成所有练习
-3. **记录笔记**：在学习过程中记录重要知识点和疑问
-4. **复习巩固**：定期回顾之前学过的内容
+3. **阅读** [BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md) 了解推荐的学习节奏与复盘方法
+4. **使用** [PROGRESS_TRACKER.md](./PROGRESS_TRACKER.md) 追踪完成情况，及时复盘
+5. **查阅** [pytorch-tutorial/BOOK_ALIGNMENT.md](./pytorch-tutorial/BOOK_ALIGNMENT.md) 获取与《PyTorch: 入门与实践》的章节映射
+6. **记录笔记**：在学习过程中记录重要知识点和疑问
+7. **复习巩固**：定期回顾之前学过的内容
 
 ## 🔗 相关文档
 
