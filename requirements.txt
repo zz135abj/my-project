@@ -1,0 +1,40 @@
+# Python基础学习所需依赖
+# 基础环境
+python>=3.8
+
+# 数据科学基础库
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# PyTorch深度学习框架
+# CPU版本
+torch>=1.12.0
+torchvision>=0.13.0
+torchaudio>=0.12.0
+
+# 如果有NVIDIA GPU，请使用以下版本替代上面的CPU版本
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+# Jupyter Notebook环境
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# 数据可视化
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# 机器学习工具
+scikit-learn>=1.0.0
+
+# 图像处理
+pillow>=8.0.0
+opencv-python>=4.5.0
+
+# 进度条和工具
+tqdm>=4.62.0
+requests>=2.25.0
+
+# 开发工具
+black>=21.0.0
+flake8>=3.9.0
